@@ -184,7 +184,7 @@ span{
 }
 .about-img img
 {
-    border: 0.3rem solid var(--main-color);
+    border: 0.3rem solid var(--bg-color);
 
 }
 .heading
